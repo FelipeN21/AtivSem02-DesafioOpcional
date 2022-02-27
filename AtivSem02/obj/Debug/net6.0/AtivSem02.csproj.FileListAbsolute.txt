@@ -1,0 +1,15 @@
+D:\AtividadeSemana02\AtivSem02\obj\Debug\net6.0\AtivSem02.csproj.AssemblyReference.cache
+D:\AtividadeSemana02\AtivSem02\obj\Debug\net6.0\AtivSem02.GeneratedMSBuildEditorConfig.editorconfig
+D:\AtividadeSemana02\AtivSem02\obj\Debug\net6.0\AtivSem02.AssemblyInfoInputs.cache
+D:\AtividadeSemana02\AtivSem02\obj\Debug\net6.0\AtivSem02.AssemblyInfo.cs
+D:\AtividadeSemana02\AtivSem02\obj\Debug\net6.0\AtivSem02.csproj.CoreCompileInputs.cache
+D:\AtividadeSemana02\AtivSem02\bin\Debug\net6.0\AtivSem02.exe
+D:\AtividadeSemana02\AtivSem02\bin\Debug\net6.0\AtivSem02.deps.json
+D:\AtividadeSemana02\AtivSem02\bin\Debug\net6.0\AtivSem02.runtimeconfig.json
+D:\AtividadeSemana02\AtivSem02\bin\Debug\net6.0\AtivSem02.dll
+D:\AtividadeSemana02\AtivSem02\bin\Debug\net6.0\AtivSem02.pdb
+D:\AtividadeSemana02\AtivSem02\obj\Debug\net6.0\AtivSem02.dll
+D:\AtividadeSemana02\AtivSem02\obj\Debug\net6.0\refint\AtivSem02.dll
+D:\AtividadeSemana02\AtivSem02\obj\Debug\net6.0\AtivSem02.pdb
+D:\AtividadeSemana02\AtivSem02\obj\Debug\net6.0\AtivSem02.genruntimeconfig.cache
+D:\AtividadeSemana02\AtivSem02\obj\Debug\net6.0\ref\AtivSem02.dll

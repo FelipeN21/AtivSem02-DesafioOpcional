@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtivSem02", "AtivSem02.csproj", "{F90465A1-5A63-4B28-BCC5-2815BDB1A915}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesafioOpcional", "DesafioOpcional", "{8858E99F-F0AF-4305-ADE5-BD78B273CA9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90465A1-5A63-4B28-BCC5-2815BDB1A915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90465A1-5A63-4B28-BCC5-2815BDB1A915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90465A1-5A63-4B28-BCC5-2815BDB1A915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90465A1-5A63-4B28-BCC5-2815BDB1A915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8293370-6177-427A-B796-431DEFEC8F3D}
+	EndGlobalSection
+EndGlobal
