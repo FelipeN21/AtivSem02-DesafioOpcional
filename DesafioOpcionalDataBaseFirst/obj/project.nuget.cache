@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2xpYBtt29wVJrgtXiq6E/QVCwUUZywNcT41P3G3UQvdBom8PDzyh3hMYbvNlie+aLlmvnQN+686BJ/i45hzprg==",
+  "dgSpecHash": "qCZ9qeybjXdo1EWq4JofLiRljqahExeU4pSyfLMBrYbzrOgmu46KEfmdDMy6meKtXPPOcOVEPVXXPqvjr3lVug==",
   "success": true,
   "projectFilePath": "D:\\AtividadeSemana02\\DesafioOpcionalDataBaseFirst\\DesafioOpcionalDataBaseFirst.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\pitki\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.2\\microsoft.entityframeworkcore.design.6.0.2.nupkg.sha512",
     "C:\\Users\\pitki\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.2\\microsoft.entityframeworkcore.relational.6.0.2.nupkg.sha512",
     "C:\\Users\\pitki\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.2\\microsoft.entityframeworkcore.sqlserver.6.0.2.nupkg.sha512",
+    "C:\\Users\\pitki\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.2\\microsoft.entityframeworkcore.tools.6.0.2.nupkg.sha512",
     "C:\\Users\\pitki\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\pitki\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\pitki\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
