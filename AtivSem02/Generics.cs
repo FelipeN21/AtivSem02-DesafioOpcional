@@ -53,16 +53,21 @@ namespace AtivSem02
         /// <returns></returns>
         public static List<T> Funcao<T>(T[] alunoQualquer)
         {
-            List<T> list = new List<T>();
-            for(int i = 0;i < 10 ;i++ )
-            { 
-            list.Add(alunoQualquer[i]);
+            try
+            {
+                List<T> list = new List<T>();
+                for (int i = 0; i < 10; i++)
+                {
+                    list.Add(alunoQualquer[i]);
+                }
+
+
+
+
+                return list;
             }
-          
+            catch (Exception e) { Console.WriteLine(e.Message); return new List<T>(); }
 
-
-
-            return list;
         }
 
 

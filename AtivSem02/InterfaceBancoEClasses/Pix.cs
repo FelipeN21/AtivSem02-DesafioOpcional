@@ -8,6 +8,10 @@ namespace AtivSem02
 {
     internal class Pix : IBancos
     {
+        /// <summary>
+        /// Funcao envia o Pix
+        /// </summary>
+        /// <returns></returns>
         public double Metodo1()
         {
             double EnvioPix = 50;
@@ -16,6 +20,10 @@ namespace AtivSem02
            
         }
 
+        /// <summary>
+        /// Funcao Registra o Pix e adiciona a taxa
+        /// </summary>
+        /// <param name="Variavel"></param>
         public void Metodo2(double Variavel)
         {
             double PixRegister = Variavel;

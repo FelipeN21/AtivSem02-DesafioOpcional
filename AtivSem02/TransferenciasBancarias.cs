@@ -8,6 +8,7 @@ namespace AtivSem02
 {
     internal class TransferenciasBancarias 
     {
+        //Realizacao da injecao de dependencia por construtor dos dois bancos
         IBancosTransfer _BancoAEnviar;
         IBancosTransfer _BancoAReceber;
         public TransferenciasBancarias(IBancosTransfer BancoAEnviar, IBancosTransfer BancoAReceber)

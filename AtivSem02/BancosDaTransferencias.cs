@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace AtivSem02
 {
+
+    /// <summary>
+    /// Nessa Classe são declarados os Bancos existentes no sistema
+    /// </summary>
     public class BancosDaTransferencias
     {
 
@@ -24,6 +28,11 @@ namespace AtivSem02
             Codigo = "BDA";
              Saldo = 500.0;
         }
+            /// <summary>
+            /// Transfere um valor ao outro banco
+            /// </summary>
+            /// <param name="valor">Valor a ser transferido</param>
+            /// <returns></returns>
         public double TransferirParaOutroBanco(double valor)
             {
                 this.Saldo -= valor;
@@ -32,6 +41,10 @@ namespace AtivSem02
                 return valor;
             }
 
+            /// <summary>
+            /// Recebe um valor de outro banco
+            /// </summary>
+            /// <param name="valor">Valor recebido</param>
             public void Receber(double valor)
             {
                 this.Saldo += valor;
@@ -54,6 +67,11 @@ namespace AtivSem02
             Saldo = 500.0;
         }
 
+            /// <summary>
+            /// Transfere um valor ao outro banco
+            /// </summary>
+            /// <param name="valor">Valor a ser transferido</param>
+            /// <returns></returns>
             public double TransferirParaOutroBanco(double valor)
             {
                 this.Saldo -= valor;
@@ -62,6 +80,11 @@ namespace AtivSem02
                 return valor;
 
             }
+
+            /// <summary>
+            /// Recebe um valor de outro banco
+            /// </summary>
+            /// <param name="valor">Valor recebido</param>
             public void Receber(double valor)
             {
                 this.Saldo += valor;
